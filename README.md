@@ -1,6 +1,6 @@
-# Smart Stare - a smart camera using edge computing
+# Smart Stare | AI controlled moving camera on an edge device
 
-Detect and track a person using a Pi Camera mounted on Adafruit Pan-Tilt servo kit.
+This system detects and tracks a person using a Pi Camera mounted on Adafruit Pan-Tilt servo kit.
 
 This project uses Jetson Nano for real-time video processing and commands the servo controlled gimble to move the camera.
 
